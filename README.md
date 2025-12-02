@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/Vn6G9ib.jpeg"  />
+<!-- <img align="right" height="150" src="https://i.imgur.com/Vn6G9ib.jpeg"  /> -->
 
 ###
 
@@ -22,27 +22,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@bedbiruta" target="_blank">
+  <a href="https://www.youtube.com/@bedbiruta" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/bedbiruta/" target="_blank">
+  <a href="https://www.instagram.com/bedbiruta/" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/bedbiruta" target="_blank">
+  <a href="https://www.twitch.tv/bedbiruta" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="mailto: bernardocm1089@gmail.com" target="_blank">
+  <a href="mailto: bernardocm1089@gmail.com" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/bernardo-carneiro-595779271/" target="_blank">
+  <a href="https://www.linkedin.com/in/bernardo-carneiro-595779271/" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
