@@ -10,21 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bernardocm10&theme=dracula" height="150" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernardocm10&theme=dracula" height="150" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardocm10&theme=dracula" alt="profile details" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardocm10&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-</div>
-
-###
-
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left">
@@ -54,6 +39,22 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bernardocm10&theme=dracula" height="150" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernardocm10&theme=dracula" height="150" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardocm10&theme=dracula" alt="profile details" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernardocm10&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+</div>
+
+###
+
 
 <h3 align="left">📬 Find me on</h3>
 
