@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  I build web applications with a focus on clean architecture and scalable backends.<br>
+  I build web applications with a focus on responsive design, clean architecture and scalable backends.<br>
   Currently working with <strong>PHP/Laravel</strong>, <strong>TypeScript</strong>, and <strong>React</strong>.
 </p>
 
