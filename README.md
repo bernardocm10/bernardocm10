@@ -30,9 +30,7 @@
     height="180"
     alt="top languages"
   />
-</div>
-
-<div align="center">
+  
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=bernardocm10&theme=dracula&hide_border=false"
     width="60%"
