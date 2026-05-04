@@ -16,27 +16,31 @@
     width="100%"
     alt="profile details"
   />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernardocm10&theme=dracula"
+        width="100%"
+        alt="top languages"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=bernardocm10&theme=dracula&hide_border=false"
+        width="100%"
+        alt="streak stats"
+      />
+    </td>
+  </tr>
+</table>
 </div>
 
-<div align="center">
-  <img
+  <!-- <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bernardocm10&theme=dracula"
     height="180"
     alt="stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernardocm10&theme=dracula"
-    height="180"
-    alt="top languages"
-  />
-  
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bernardocm10&theme=dracula&hide_border=false"
-    width="60%"
-    alt="streak stats"
-  />
-</div>
+  /> -->
 
 ###
 
