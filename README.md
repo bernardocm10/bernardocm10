@@ -30,14 +30,8 @@
 
 </div>
 
----
-
-## 🏆 Trophies
-
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=bernardocm10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernardocm10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" />
 </div>
 
 ---
