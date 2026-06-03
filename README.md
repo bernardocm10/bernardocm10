@@ -19,6 +19,7 @@
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bernardocm10&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernardocm10&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernardocm10&theme=tokyonight" />
 
 </div>
 
