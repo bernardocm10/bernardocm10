@@ -17,7 +17,6 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bernardocm10&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bernardocm10&theme=tokyonight" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bernardocm10&theme=tokyonight" />
 
@@ -31,9 +30,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernardocm10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" />
-</div>
+
 
 ---
 
